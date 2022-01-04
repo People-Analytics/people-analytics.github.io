@@ -11,3 +11,7 @@
 ### 2021
 - Study 1
 	- [People Analytics Study 1](https://people-analytics.github.io/study1/)
+
+### 2022
+- Study 2
+	- [Marketing Analytics Study 1](https://people-analytics.github.io/study2/)
